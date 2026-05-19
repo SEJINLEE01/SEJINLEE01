@@ -28,9 +28,14 @@
 
 <br></br>
 
-## 제스처를 활용한 자동차 제어([github](https://github.com/kdm111/GCC.git) / [Notion](https://thorn-laundry-e55.notion.site/PYTHON-PROJECT-32b48864395280c2b8e5f8555619c25b?pvs=74)
-
-
+## 🖐️🚗 제스처를 활용한 자동차 제어([github](https://github.com/kdm111/GCC.git) / [Notion](https://thorn-laundry-e55.notion.site/PYTHON-PROJECT-32b48864395280c2b8e5f8555619c25b?pvs=74))
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 <!--
 **SEJINLEE01/SEJINLEE01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
