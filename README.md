@@ -51,5 +51,11 @@
 
 <br></br>
 
+### 📈 GitHub Summary
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEJINLEE01&theme=radical)
+
+![Language](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEJINLEE01&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEJINLEE01&show_icons=true&theme=dark)
 
 </div>
