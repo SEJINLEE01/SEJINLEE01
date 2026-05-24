@@ -1,4 +1,6 @@
-# 😁 반갑습니다! 기술로 가치를 만드는 개발자 이세진입니다.
+<div align="center">
+
+# SEJIN'S GITHUB
 
 ## 기술스택
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -48,3 +50,6 @@
 ---
 
 <br></br>
+
+
+</div>
