@@ -35,7 +35,7 @@
 
 <br></br>
 
-### 🖐️🚗 MediaPipe 및 커스텀 DNN 기반 제스처 인터페이스([github](https://github.com/kdm111/GCC.git) / [Notion](https://thorn-laundry-e55.notion.site/PYTHON-PROJECT-32b48864395280c2b8e5f8555619c25b?pvs=74))
+### 🖐️🚗🖥️ MediaPipe 및 커스텀 DNN 기반 제스처 인터페이스([github](https://github.com/kdm111/GCC.git) / [Notion](https://thorn-laundry-e55.notion.site/PYTHON-PROJECT-32b48864395280c2b8e5f8555619c25b?pvs=74))
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
