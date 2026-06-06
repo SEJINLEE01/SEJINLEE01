@@ -73,7 +73,7 @@
 
 <br></br>
 
-### 📈 GitHub Summary
+## 📈 GitHub Summary
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEJINLEE01&theme=nord_dark)
 
 ![Language](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEJINLEE01&theme=nord_dark)
