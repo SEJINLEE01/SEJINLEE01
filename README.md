@@ -1,6 +1,6 @@
 <div align="center">
 
-# SEJIN'S GITHUB
+# [SEJIN](https://sejinlee01.github.io/)'S GITHUB
 
 ## 🛠️ Tech Stack
 | 카테고리 | 기술 스택 |
