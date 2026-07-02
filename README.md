@@ -18,27 +18,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br></br>
 
 ---
@@ -60,7 +39,7 @@
 
 <br></br>
 
-### 🖐️🚗🖥️ MediaPipe 및 커스텀 DNN 기반 제스처 인터페이스([github](https://github.com/kdm111/GCC.git) / [Notion](https://thorn-laundry-e55.notion.site/PYTHON-PROJECT-32b48864395280c2b8e5f8555619c25b?pvs=74))
+### 🖐️🚗🖥️ [MediaPipe 및 커스텀 DNN 기반 제스처 인터페이스](https://github.com/kdm111/GCC.git)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
@@ -72,7 +51,7 @@
 
 <br></br>
 
-### STM32보드 RC카 원격 제어 시스템([github](https://github.com/kdm111/team2) / [Notion](https://thorn-laundry-e55.notion.site/STM32-WebSocket-RC-34b48864395280d7a223f921e45ab88b))
+### [STM32보드 RC카 원격 제어 시스템](https://github.com/kdm111/team2))
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  
