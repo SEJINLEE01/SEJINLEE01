@@ -94,6 +94,14 @@
 
 <br></br>
 
+### [알약 자동 패키징 스마트팩토리](https://github.com/qkrrkdtj/autofactory-ros2) / 진행중
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)  
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
 ---
 
 <br></br>
